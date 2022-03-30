@@ -1,0 +1,13 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+#Carpeta de pycharm
+.idea/
+.vscode/
+lote*.py
+
+# Logs
+.logs/
